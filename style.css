@@ -1,0 +1,45 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  overflow: hidden;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  padding: 0 4rem;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+#page-1 {
+  background: url(https://wallpapers.com/images/hd/most-beautiful-places-in-the-world-q03puxakvyu6uklq.jpg)
+    no-repeat center center/cover;
+}
+#page-2 {
+  background: url(https://wallpapercave.com/wp/wp4956760.jpg) no-repeat center
+    center/cover;
+}
+#page-3 {
+  background: url(https://i.pinimg.com/originals/68/6e/7b/686e7b04ddee579b6da03441d63d7071.jpg)
+    no-repeat center center/cover;
+}
+#page-4 {
+  background: url(https://www.desktopbackground.org/p/2013/08/06/618878_most-beautiful-places-in-the-world-hd-wallpapers-deep-hd_1600x1000_h.jpg)
+    no-repeat center center/cover;
+  color: black;
+}
+#page-5 {
+  background: url(https://getwallpapers.com/wallpaper/full/d/4/d/1263107-top-world-most-beautiful-places-wallpapers-1920x1080-for-4k.jpg)
+    no-repeat center center/cover;
+  color: black;
+}
